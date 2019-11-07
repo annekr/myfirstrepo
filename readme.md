@@ -12,3 +12,5 @@
 *Lernen
 *SAP Money
 >>>>>>> c6455d0e3fe00f104c8833a7aeff2a538ed7bb94
+###Erwartungen an das studium
+*ka
